@@ -4,7 +4,7 @@ import os
 import json
 import time
 
-SearchingUserID = 119827962
+SearchingUserID = 1
 GroupID = "-28627911" # or smthng else. Group with '-' at begin of string. Users without.
 access_token = ""
 VersionAPI = "5.92"
