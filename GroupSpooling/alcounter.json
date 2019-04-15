@@ -1,0 +1,1 @@
+{"error":{"error_code":28,"error_msg":"Application authorization failed: method is unavailable with service token.","request_params":[{"key":"oauth","value":"1"},{"key":"method","value":"photos.getAlbumsCount"},{"key":"user_id","value":"-28627911"},{"key":"v","value":"5.92"}]}}
